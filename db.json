@@ -1,0 +1,47 @@
+{
+  "GryPlanszowe":[
+  {
+    "nazwa": "Smoki",
+    "minWiek": 7,
+    "minG": 2,
+    "maxG": 9,
+    "czasGry": 20
+  },
+  {
+    "nazwa": "Dixit",
+    "minWiek": 8,
+    "minG": 4,
+    "maxG": 10,
+    "czasGry": 60
+  },
+  {
+    "nazwa": "Monopoly",
+    "minWiek": 10,
+    "minG": 2,
+    "maxG": 15,
+    "czasGry": 120
+  },
+  {
+    "nazwa": "Arkana Milosci",
+    "minWiek": 18,
+    "minG": 2,
+    "maxG": 2,
+    "czasGry": 30
+  },
+  {
+    "nazwa": "Lesne rozdanie",
+    "minWiek": 10,
+    "minG": 2,
+    "maxG": 5,
+    "czasGry": 60
+  },
+  {
+    "nazwa": "Nemesis",
+    "minWiek": 12,
+    "minG": 1,
+    "maxG": 5,
+    "czasGry": 90
+  }
+
+]
+}
